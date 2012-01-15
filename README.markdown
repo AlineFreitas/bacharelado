@@ -8,6 +8,6 @@
 ##Sumary
 
 
-###About
->>This repository keep every programming exercise and/or homework that I made throughout my college graduation at [IF - Fluminense]. Feel free to study it, modify it, correct if (if you do it, please, let me know), fork it.
+###                          About
+This repository keep every programming exercise and/or homework that I made throughout my college graduation at [IF - Fluminense]. Feel free to study it, modify it, correct if (if you do it, please, let me know), fork it.
 
